@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "tipo": "Reposera",
+    "precio": 7000,
+    "stock": 0,
+    "img": "http://www.reposerasivosol.com.ar/images/r1.jpg"
+    
+   
+}, {
+    "id": 2,
+    "tipo": "Banquito",
+    "precio": 3000,
+    "stock": 4,
+    "img":"http://www.reposerasivosol.com.ar/images/b2.jpg"
+}, {
+    "id": 3,
+    "tipo": "Reposera pileta",
+    "precio": 9000,
+    "stock": 3,
+    "img":"http://www.reposerasivosol.com.ar/images/camastronegro.jpg"
+},{
+    "id": 4,
+    "tipo": "Silla",
+    "precio": 1500,
+    "stock": 4,
+    "img":"http://www.reposerasivosol.com.ar/images/silla%20sq%20plata%202.jpg"
+
+},{
+    "id": 5,
+    "tipo": "Mesa",
+    "precio": 3500,
+    "stock": 4,
+    "img":"http://www.reposerasivosol.com.ar/images/square%20epoxy.jpg"
+
+},{
+    "id":6,
+    "tipo": "Puff",
+    "precio": 2000,
+    "stock": 4,
+    "img":"http://www.reposerasivosol.com.ar/images/Puff%20tornado.jpg"
+
+}]

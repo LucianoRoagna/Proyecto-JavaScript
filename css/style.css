@@ -1,0 +1,123 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+    background-image: url(http://www.reposerasivosol.com.ar/web/fondo9.jpg);
+}
+
+
+.menu ul{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    }
+    
+    
+    
+    .menu li a{
+        display: block;
+        padding:25px 40px;
+        color: black;
+        text-decoration: none;
+     
+    }
+
+    header label{
+        display: block;
+        width: 30px;
+        height: 30px;
+        padding: 10px;
+    }
+
+ .card{
+     background-color: transparent;
+    margin: auto;
+    height: 200px;
+  border: none;
+
+
+ }
+
+ .card button{
+     background-color: black;
+     border-color: black;
+ }
+
+.card img{
+    height: 100px;
+}
+
+
+.card img{
+    -webkit-transition:all .9s ease; 
+    -moz-transition:all .9s ease; 
+    -o-transition:all .9s ease; 
+    -ms-transition:all .9s ease;
+}
+
+.card img:hover{
+    -webkit-transform:scale(2.25);
+    -moz-transform:scale(2.25);
+    -ms-transform:scale(2.25);
+    -o-transform:scale(2.25);
+    transform:scale(2.25);
+}
+
+
+.menu{
+    font-size: 40px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+}
+
+footer{
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    text-align: right;
+}
+
+
+#dropdownMenuButton{
+    background-color: black;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+
+}
+
+.dropdown{
+    float: right ;
+    display: block ;
+    position: absolute;
+    right: 200px ;
+   
+}
+
+
+
+
+#carrito{
+    background-color:whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+#queryLista{
+    background-color:black;
+    color: white;
+
+    
+
+}
+
+
+
+
+ /* 
+display: flex;
+justify-content: flex-end;
+text-align: right;
+ */
